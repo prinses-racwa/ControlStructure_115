@@ -10,4 +10,3 @@ elif nilai >= 60:
     print("average")
 else:
     print("poor")
-
